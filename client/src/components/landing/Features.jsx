@@ -3,23 +3,23 @@ import { ShieldCheck, Clock, Store, HandCoins } from “lucide-react”;
 const features = [
 {
 icon: ,
-title: “Business Financing”,
-description: “Financing opportunities designed around the needs of small and growing businesses.”
+title: "Business Financing",
+description: "Financing opportunities designed around the needs of small and growing businesses."
 },
 {
 icon: ,
-title: “Simple Application”,
-description: “A structured application process that makes requesting financial assistance easier.”
+title: "Simple Application",
+description: "A structured application process that makes requesting financial assistance easier."
 },
 {
 icon: ,
-title: “Secure Onboarding”,
-description: “Identity and business information are handled through a structured verification process.”
+title: "Secure Onboarding",
+description: "Identity and business information are handled through a structured verification process."
 },
 {
 icon: ,
-title: “Business Focused”,
-description: “We recognize the importance of supporting entrepreneurs and local businesses.”
+title: "Business Focused",
+description: "We recognize the importance of supporting entrepreneurs and local businesses."
 }
 ];
 
