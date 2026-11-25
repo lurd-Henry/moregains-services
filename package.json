@@ -1,0 +1,14 @@
+{
+  "name": "moregains-services",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A full-stack microfinance loan management platform.",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
