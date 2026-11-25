@@ -1,5 +1,5 @@
-import { useState } from “react”;
-import { Link } from “react-router-dom”;
+import { useState } from "react";
+import { Link } from "react-router-dom";
 import {
 ArrowLeft,
 Eye,
@@ -7,13 +7,13 @@ EyeOff,
 LockKeyhole,
 Mail,
 ShieldCheck
-} from “lucide-react”;
+} from "lucide-react";
 
 function Login() {
 const [showPassword, setShowPassword] = useState(false);
 const [formData, setFormData] = useState({
-email: “”,
-password: “”,
+email: "",
+password: "",
 rememberMe: false
 });
 
