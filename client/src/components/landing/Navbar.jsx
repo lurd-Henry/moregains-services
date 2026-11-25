@@ -1,13 +1,11 @@
-import { Link } from “react-router-dom”;
-import { Menu, ArrowUpRight } from “lucide-react”;
-import { useState } from “react”;
+import { Link } from "react-router-dom";
+import { Menu, ArrowUpRight } from "lucide-react";
+import { useState } from "react";
 
 function Navbar() {
 const [menuOpen, setMenuOpen] = useState(false);
 
 return (
-M
-moregains.
   <div className={`nav-links ${menuOpen ? "active" : ""}`}>
     <a href="#about" onClick={() => setMenuOpen(false)}>About Us</a>
     <a href="#benefits" onClick={() => setMenuOpen(false)}>Benefits</a>
