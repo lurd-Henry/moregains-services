@@ -37,5 +37,12 @@ app.get("/api/health", (req, res) => {
         application: "Moregains Services"
     });
 });
+const app = require("./app");
+require("dotenv").config();
 
+const PORT = process.env.PORT || 5000;
+
+app.listen(PORT, () => {
+  console.log(`Moregains API running on port ${PORT}`);
+});
 module.exports = app;
