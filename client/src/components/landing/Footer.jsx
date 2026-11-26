@@ -2,8 +2,9 @@ import { Link } from "react-router-dom";
 
 function Footer() {
 return (
-M
+      <div class="logo">M
 moregains.
+            </div>
       <p>
         Empowering business owners with financial opportunities
         designed to support growth.
