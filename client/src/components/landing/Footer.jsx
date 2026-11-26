@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Footer() {
 return (
-      <div class="logo">M
+      <div className="logo">M
 moregains.
             </div>
       <p>
