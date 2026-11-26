@@ -23,7 +23,7 @@ description: "Submit your loan request and follow its progress from your dashboa
 
 function HowItWorks() {
 return (
-<div class="started">GETTING STARTED
+<div className="started">GETTING STARTED
 Four steps. One bigger opportunity.
 Our process is designed to keep your application organized.
 </div>
