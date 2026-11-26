@@ -1,4 +1,4 @@
-import { ShieldCheck, Clock, Store, HandCoins } from “lucide-react”;
+import { ShieldCheck, Clock, Store, HandCoins } from "lucide-react";
 
 const features = [
 {
