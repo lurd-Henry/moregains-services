@@ -23,9 +23,10 @@ description: "Submit your loan request and follow its progress from your dashboa
 
 function HowItWorks() {
 return (
-GETTING STARTED
+<div class="started">GETTING STARTED
 Four steps. One bigger opportunity.
 Our process is designed to keep your application organized.
+</div>
   <div className="steps-grid">
     {steps.map((step) => (
       <div className="step-card" key={step.number}>
