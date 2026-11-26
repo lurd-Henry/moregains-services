@@ -1,23 +1,23 @@
 const steps = [
 {
-number: “01”,
-title: “Create an account”,
-description: “Register on Moregains and provide your basic personal information.”
+number: "01",
+title: "Create an account",
+description: "Register on Moregains and provide your basic personal information."
 },
 {
-number: “02”,
-title: “Verify your business”,
-description: “Complete identity verification and submit your business information.”
+number: "02",
+title: "Verify your business",
+description: "Complete identity verification and submit your business information."
 },
 {
-number: “03”,
-title: “Meet your agent”,
-description: “An agent assigned to your business location reviews your application.”
+number: "03",
+title: "Meet your agent",
+description: "An agent assigned to your business location reviews your application."
 },
 {
-number: “04”,
-title: “Apply for financing”,
-description: “Submit your loan request and follow its progress from your dashboard.”
+number: "04",
+title: "Apply for financing",
+description: "Submit your loan request and follow its progress from your dashboard."
 }
 ];
 
