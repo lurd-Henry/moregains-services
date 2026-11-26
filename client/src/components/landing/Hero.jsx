@@ -1,5 +1,5 @@
-import { Link } from “react-router-dom”;
-import { ArrowRight, ShieldCheck, TrendingUp } from “lucide-react”;
+import { Link } from "react-router-dom";
+import { ArrowRight, ShieldCheck, TrendingUp } from "lucide-react";
 
 function Hero() {
 return (
